@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon app",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelemo/Bamazon_Store.git"
+  },
+  "keywords": [
+    "amazon",
+    "like",
+    "app"
+  ],
+  "author": "kadiro e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelemo/Bamazon_Store/issues"
+  },
+  "homepage": "https://github.com/kelemo/Bamazon_Store#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
